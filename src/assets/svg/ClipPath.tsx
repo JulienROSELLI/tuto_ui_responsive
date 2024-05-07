@@ -1,4 +1,4 @@
-const ClipPath = () => {
+const ClipPath: React.FC = () => {
   return (
     <svg className="block" width={0} height={0}>
       <clipPath id="benefits" clipPathUnits="objectBoundingBox">
